@@ -1,8 +1,8 @@
 <%@ include file="common/header.jspf" %>
 <%@ include file="common/navigation.jspf" %>
 <div class="container">
-	<table class="table table-stripped">
-		<caption>Your todos are</caption>
+	<h4 class="card-title">Todo List</h4>
+	<table class="table table-striped table-bordered  table-hover">
 		<thead>
 			<tr>
 				<th>Description</th>
