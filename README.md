@@ -1,4 +1,4 @@
-# springboot-todo
+# springboot- Une application de cas d'étude
 
 # Sources:
 https://www.baeldung.com/spring-boot-angular-web <br>
